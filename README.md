@@ -12,5 +12,3 @@ netl
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
-
-```
